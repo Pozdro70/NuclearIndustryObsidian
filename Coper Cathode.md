@@ -1,0 +1,1 @@
+Smelting::[[Copper Ingot]]

@@ -1,0 +1,449 @@
+{
+  "main": {
+    "id": "8df5f38d38e6eb63",
+    "type": "split",
+    "children": [
+      {
+        "id": "86fdd965a59d49f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f173c23081621581",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "5f8d6db0ee0e807f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spent Copper Electrolyte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spent Copper Electrolyte"
+            }
+          },
+          {
+            "id": "d397207f2b885bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copper Ore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copper Ore"
+            }
+          },
+          {
+            "id": "21e3e4932ee11513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Crushed Copper Ore.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crushed Copper Ore"
+            }
+          },
+          {
+            "id": "741289cc7aa35ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copper Ore Dust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copper Ore Dust"
+            }
+          },
+          {
+            "id": "7b19c60b7e94c9c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copper Leachate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copper Leachate"
+            }
+          },
+          {
+            "id": "d85df017513ee1f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copper Solution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copper Solution"
+            }
+          },
+          {
+            "id": "2dec63cadcf5cf6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coper Cathode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coper Cathode"
+            }
+          },
+          {
+            "id": "cf598f0e15d41589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copper Leachate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copper Leachate"
+            }
+          },
+          {
+            "id": "132079623055d5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Copper Solution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Copper Solution"
+            }
+          },
+          {
+            "id": "4ae52eae3e1aefc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spent Copper Electrolyte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spent Copper Electrolyte"
+            }
+          },
+          {
+            "id": "6315768e4590a5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sulfuric Acid.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sulfuric Acid"
+            }
+          },
+          {
+            "id": "708431e85e5640c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spent Copper Electrolyte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spent Copper Electrolyte"
+            }
+          },
+          {
+            "id": "a07496820047793b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Precious Metal Solution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Precious Metal Solution"
+            }
+          },
+          {
+            "id": "17588ed6d4fee376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Water.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Water"
+            }
+          },
+          {
+            "id": "3b5c27bb69c93886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Precious Metal Solution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Precious Metal Solution"
+            }
+          },
+          {
+            "id": "dc17da138620b1c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Precious Metal Solution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Precious Metal Solution"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "326fe83c5b79cd56",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b385dff3e545fec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "616e6310009a85b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2cc1427ed312d095",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "13637bce4bb2e1d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ade3844c9532b73",
+    "type": "split",
+    "children": [
+      {
+        "id": "508ccb9458dececc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "054d30eb97d8b8d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Crushed Ore.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Linki zwrotne"
+            }
+          },
+          {
+            "id": "6eda90bc6624af53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "eac5fb30d6bdbc76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4dcac441fea46ef6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Wszystkie atrybuty"
+            }
+          },
+          {
+            "id": "4dce0c869acdbaf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "f173c23081621581",
+  "lastOpenFiles": [
+    "Precious Metal Solution.md",
+    "Spent Copper Electrolyte.md",
+    "Water.md",
+    "Sulfuric Acid.md",
+    "Copper Solution.md",
+    "Copper Leachate.md",
+    "Coper Cathode.md",
+    "Copper Ore Dust.md",
+    "Crushed Copper Ore.md",
+    "Copper Ore.md",
+    "Copper Ingot.md",
+    "Untitled",
+    "Leach Solution.md",
+    "Crushed Ore.md",
+    "Ore Cathode.md",
+    "Ore Ingot.md",
+    "Ore-Rich Leach Solution.md",
+    "Ore Block.md",
+    "Ore Dust.md",
+    "Pasted image 20260815210918.png",
+    "IMG/Uranium Ore Dust.png",
+    "IMG/Uranium Ore Block.png",
+    "IMG",
+    "Pasted image 20260815202325.png.md",
+    "Pasted image 20260815202325.png",
+    "Pasted image 20260815202301.png",
+    "Pasted image 20260815202258.png",
+    "IMG/Crushed Uranium Ore.png",
+    "OreDust.md",
+    "Crushed.md",
+    "Ore.md",
+    "test.md",
+    "Witaj.md"
+  ]
+}
