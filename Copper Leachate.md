@@ -1,4 +1,4 @@
-_Filter::[[Copper Solution]]
+Filter Press::[[Copper Solution]]
 
 
 #fluid

@@ -1,5 +1,5 @@
-Electrowinning::[[Coper Cathode]]
-Electrowinning Byproduct::[[Spent Copper Electrolyte]]
+Electrowinning Cell::[[Coper Cathode]]
+Electrowinning Byproduct::[[Spent Sulfuric Electrolyte]]
 
 
 #fluid
